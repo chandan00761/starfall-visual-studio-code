@@ -1,7 +1,7 @@
 {
   "name": "starfall-visual-studio-code",
   "displayName": "Starfall",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A cosmic matte-blue, elegant and colorful Visual Studio Code theme.",
   "author": {
     "email": "sndst00m@outlook.com",
@@ -73,7 +73,7 @@
     "vscode:prepublish": "npm-run-all clean compile",
     "clean": "npx rimraf out *.vsix",
     "compile": "npx tsc -p ./",
-    "install-extension": "code --install-extension starfall-visual-studio-code-0.0.0.vsix",
+    "install-extension": "code --install-extension starfall-visual-studio-code-0.1.0.vsix",
     "lint": "npx eslint . --ext .ts",
     "mocha": "npx mocha",
     "test": "npm-run-all lint mocha",
