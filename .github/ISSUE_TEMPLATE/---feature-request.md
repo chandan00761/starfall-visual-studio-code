@@ -1,7 +1,7 @@
 ---
 name: "🌃 Feature Request"
 about: "Suggest an idea for this project 🚀"
-labels: [scope-design, status-tracking, type-feature]
+labels: [context-extension, scope-design, status-tracking, type-feature]
 
 ---
 
