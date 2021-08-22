@@ -7,7 +7,7 @@ labels: [context-extension, scope-design, status-tracking, type-epic]
 
 ## `#.#.#`
 
-- [ ] Cross-browser testing for `#.#.#` (Chrome, Edge, Safari, Firefox, Electron).
+- [ ] Cross-channel testing for `#.#.#` (VSC stable, insiders, VSCodium).
 - [ ] Update asset references.
 - [ ] Create tag release for GitHub.
 - [ ] Publish `#.#.#` to Extension Marketplace.
