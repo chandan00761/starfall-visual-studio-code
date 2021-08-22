@@ -11,6 +11,7 @@ labels: [context-extension, scope-design, status-tracking, type-epic]
 - [ ] Update asset references.
 - [ ] Create tag release for GitHub.
 - [ ] Publish `#.#.#` to Extension Marketplace.
+- [ ] Publish `#.#.#` to OpenVSX.
 
 ## Changelog
 
