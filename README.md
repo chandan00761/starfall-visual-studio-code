@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SNDST00M/starfall-visual-studio-code">
-    <img alt="logo" title="starfall-visual-studio-code" src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.0/assets/icon.png" width="100" alt="Logo">
+    <img alt="logo" title="starfall-visual-studio-code" src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.1/assets/icon.png" width="100" alt="Logo">
   </a>
   <h1 align="center"><code>starfall-visual-studio-code</code></h1>
   <h4 align="center">An cosmic matte-blue, clean and colorful theme for Visual Studio Code.</h4>
@@ -20,19 +20,19 @@
 
 <p align="center">The unified polychrome color palette provides a clutter-free and seamless experience in every.</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.0/assets/editor-syntax-ts.png" width="741px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.1/assets/editor-syntax-ts.png" width="741px"/></p>
 
 <p align="center"><b>Beautiful code to keep you focused.</b></p>
 
 <p align="center">The syntax color scheme covers many programming languages and configuration formats, communicating meaning and eye candy in every line.</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.0/assets/editor-syntax-xml.png" width="741px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.1/assets/editor-syntax-xml.png" width="741px"/></p>
 
 <p align="center"><b>Small details and unobtrusive styles.</b></p>
 
 <p align="center">Code editor features such as comments, line numbers and decorations are all designed for reduced visual priority and visual attractiveness.</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.0/assets/editor-syntax-css.png" width="741px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.1/assets/editor-syntax-css.png" width="741px"/></p>
 
 ## Installation
 
@@ -42,31 +42,31 @@ You can install Starfall from the official Extension Marketplace with one click.
 
 Automatic updates ensure that you will always be using the latest Starfall version.
 
-<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.0/assets/installation-extension-marketplace.png" width="581px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.1/assets/installation-extension-marketplace.png" width="581px"/></p>
 
 ### Activation
 
 To activate the theme click on the gear icon in the *Activity Bar* and select *Color Theme*. Search for `Starfall` and confirm the color theme change with <kbd>Enter</kbd>.
 
-<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.0/assets/installation-command-palette.png" width="581px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.1/assets/installation-command-palette.png" width="581px"/></p>
 
 ## Color palette
 
 ### Starry Night
 
-<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.0/assets/color-scheme-starry-night.png" width="741px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.1/assets/color-scheme-starry-night.png" width="741px"/></p>
 
 ### Comet Shower
 
-<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.0/assets/color-scheme-comet-shower.png" width="741px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.1/assets/color-scheme-comet-shower.png" width="741px"/></p>
 
 ### Milky Way
 
-<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.0/assets/color-scheme-milky-way.png" width="741px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.1/assets/color-scheme-milky-way.png" width="741px"/></p>
 
 ### Aurora Borealis
 
-<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.0/assets/color-scheme-aurora-borealis.png" width="741px"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.1.1/assets/color-scheme-aurora-borealis.png" width="741px"/></p>
 
 ## Contributing
 
