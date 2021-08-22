@@ -1,6 +1,6 @@
 ---
-name: "🛠 New Release"
-about: "Publish changes 🆙"
+name: "🚀 New Release"
+about: "Publish changes 🦾"
 labels: [context-extension, scope-design, status-tracking, type-epic]
 
 ---
