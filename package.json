@@ -76,7 +76,7 @@
     "install-extension": "code --install-extension starfall-visual-studio-code-0.1.0.vsix",
     "lint": "npx eslint . --ext .ts",
     "mocha": "npx mocha",
-    "test": "npm-run-all lint mocha",
+    "test": "npm-run-all lint compile mocha",
     "package": "npx vsce package"
   },
   "devDependencies": {
