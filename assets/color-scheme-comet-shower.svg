@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 784 124">
+	<style>
+		:root {
+			color: #24292f;
+			font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+			font-size: 16px;
+			line-height: 1em;
+		}
+		#clpl {
+			border-radius: 16px;
+			padding: 8px 0;
+			width: 784px;
+		}
+		.clpl__palette {
+			align-content: flex-start;
+			align-items: flex-start;
+			background: #dadfe3;
+			border-radius: 8px;
+			box-sizing: border-box;
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			margin: 8px 16px;
+			padding: 8px 16px;
+		}
+		.clpl__palette .clpl__color-item {
+			align-items: center;
+			display: flex;
+			flex-direction: row;
+			height: 60px;
+			width: 240px;
+			margin: 8px 0;
+		}
+		.clpl__palette .clpl__color-item .clpl__color-box {
+			border-radius: 8px;
+			box-shadow: inset 0 0 0 2px currentColor;
+			box-sizing: border-box;
+			display: flex;
+			height: 60px;
+			width: 60px;
+		}
+		.clpl__palette .clpl__color-item .clpl__color-desc {
+			align-items: flex-start;
+			display: flex;
+			flex-direction: column;
+			margin-left: 16px;
+		}
+		.clpl__palette .clpl__color-item .clpl__color-name {
+			margin-bottom: 8px;
+		}
+		.clpl__palette .clpl__color-item .clpl__color-value {
+			font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+			font-weight: bold;
+		}
+		@media (prefers-color-scheme: dark) {
+			:root {
+				color: #c9d1d9;
+			}
+			.clpl__palette {
+				background: #161b22;
+			}
+			.clpl__palette .clpl__color-item .clpl__color-box {
+				box-shadow: inset 0 0 0 4px #d0d7de;
+			}
+		}
+	</style>
+	<foreignObject height="124" width="784">
+		<div xmlns="http://www.w3.org/1999/xhtml" id="clpl">
+			<div class="clpl__palette">
+				<div class="clpl__color-item">
+					<div class="clpl__color-box" style="background-color:#cacde2"></div>
+					<div class="clpl__color-desc">
+						<b class="clpl__color-name">Halo</b>
+						<code class="clpl__color-value">#cacde2</code>
+					</div>
+				</div>
+				<div class="clpl__color-item">
+					<div class="clpl__color-box" style="background-color:#d2d8e7"></div>
+					<div class="clpl__color-desc">
+						<b class="clpl__color-name">Antitail</b>
+						<code class="clpl__color-value">#d2d8e7</code>
+					</div>
+				</div>
+				<div class="clpl__color-item">
+					<div class="clpl__color-box" style="background-color:#ffffff"></div>
+					<div class="clpl__color-desc">
+						<b class="clpl__color-name">Sol</b>
+						<code class="clpl__color-value">#ffffff</code>
+					</div>
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>

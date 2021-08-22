@@ -1,0 +1,103 @@
+{
+  "name": "starfall-visual-studio-code",
+  "displayName": "Starfall",
+  "version": "0.0.0",
+  "description": "A cosmic matte-blue, elegant and colorful Visual Studio Code theme.",
+  "author": {
+    "email": "sndst00m@outlook.com",
+    "name": "Munin M.",
+    "url": "https://github.com/SNDST00M"
+  },
+  "homepage": "https://github.com/SNDST00M/starfall-visual-studio-code/blob/main/README.md",
+  "license": "MIT",
+  "directories": {
+    "example": "examples"
+  },
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#11131C",
+    "theme": "dark"
+  },
+  "keywords": [
+    "colorful",
+    "material",
+    "theme",
+    "vscode",
+    "space",
+    "candy",
+    "dark"
+  ],
+  "markdown": "github",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SNDST00M/starfall-visual-studio-code.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SNDST00M/starfall-visual-studio-code/issues"
+  },
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./themes/starfall-color-theme.json",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Starfall",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starfall-color-theme.json"
+      },
+      {
+        "label": "Starfall Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starfall-color-theme-darker.json"
+      },
+      {
+        "label": "Starfall Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starfall-color-theme-ocean.json"
+      },
+      {
+        "label": "Starfall Palenight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starfall-color-theme-palenight.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm-run-all clean compile",
+    "clean": "npx rimraf out *.vsix",
+    "compile": "npx tsc -p ./",
+    "install-extension": "code --install-extension starfall-visual-studio-code-0.0.0.vsix",
+    "lint": "npx eslint . --ext .ts",
+    "mocha": "npx mocha",
+    "test": "npm-run-all lint mocha",
+    "package": "npx vsce package"
+  },
+  "devDependencies": {
+    "@types/ansi-colors": "^3.2.2",
+    "@types/glob": "^7.1.4",
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.6.2",
+    "@types/shell-quote": "^1.7.1",
+    "@types/vscode": "^1.51.0",
+    "@typescript-eslint/eslint-plugin": "^4.26.0",
+    "@typescript-eslint/parser": "^4.26.0",
+    "ansi-colors": "^4.1.1",
+    "eslint": "^7.27.0",
+    "glob": "^7.1.7",
+    "mocha": "^9.0.3",
+    "npm-run-all": "^4.1.5",
+    "rimraf": "^3.0.2",
+    "shell-quote": "^1.7.2",
+    "typescript": "^4.3.5",
+    "vsce": "^1.62.0",
+    "vscode-test": "^1.4.1"
+  },
+  "publisher": "test"
+}

@@ -1,0 +1,4 @@
+{
+	"reporters": ["default", "mocha-github-actions-reporter"],
+  "spec": "./out/themes/test/runTest.js"
+}

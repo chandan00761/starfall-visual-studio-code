@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 784 192">
+	<style>
+		:root {
+			color: #24292f;
+			font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+			font-size: 16px;
+			line-height: 1em;
+		}
+		#clpl {
+			border-radius: 16px;
+			padding: 8px 0;
+			width: 784px;
+		}
+		.clpl__palette {
+			align-content: flex-start;
+			align-items: flex-start;
+			background: #dadfe3;
+			border-radius: 8px;
+			box-sizing: border-box;
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			margin: 8px 16px;
+			padding: 8px 16px;
+		}
+		.clpl__palette .clpl__color-item {
+			align-items: center;
+			display: flex;
+			flex-direction: row;
+			height: 60px;
+			width: 240px;
+			margin: 8px 0;
+		}
+		.clpl__palette .clpl__color-item .clpl__color-box {
+			border-radius: 8px;
+			box-shadow: inset 0 0 0 2px currentColor;
+			box-sizing: border-box;
+			display: flex;
+			height: 60px;
+			width: 60px;
+		}
+		.clpl__palette .clpl__color-item .clpl__color-desc {
+			align-items: flex-start;
+			display: flex;
+			flex-direction: column;
+			margin-left: 16px;
+		}
+		.clpl__palette .clpl__color-item .clpl__color-name {
+			margin-bottom: 8px;
+		}
+		.clpl__palette .clpl__color-item .clpl__color-value {
+			font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+			font-weight: bold;
+		}
+		@media (prefers-color-scheme: dark) {
+			:root {
+				color: #c9d1d9;
+			}
+			.clpl__palette {
+				background: #161b22;
+			}
+			.clpl__palette .clpl__color-item .clpl__color-box {
+				box-shadow: inset 0 0 0 4px #d0d7de;
+			}
+		}
+	</style>
+	<foreignObject height="192" width="784">
+		<div xmlns="http://www.w3.org/1999/xhtml" id="clpl">
+			<div class="clpl__palette">
+				<div class="clpl__color-item">
+					<div class="clpl__color-box" style="background-color:#071730"></div>
+					<div class="clpl__color-desc">
+						<b class="clpl__color-name">Midnight</b>
+						<code class="clpl__color-value">#071730</code>
+					</div>
+				</div>
+				<div class="clpl__color-item">
+					<div class="clpl__color-box" style="background-color:#1e293b"></div>
+					<div class="clpl__color-desc">
+						<b class="clpl__color-name">Twilight</b>
+						<code class="clpl__color-value">#1e293b</code>
+					</div>
+				</div>
+				<div class="clpl__color-item">
+					<div class="clpl__color-box" style="background-color:#4e5c7e"></div>
+					<div class="clpl__color-desc">
+						<b class="clpl__color-name">Space Gray</b>
+						<code class="clpl__color-value">#4e5c7e</code>
+					</div>
+				</div>
+				<div class="clpl__color-item">
+					<div class="clpl__color-box" style="background-color:#6d88a7"></div>
+					<div class="clpl__color-desc">
+						<b class="clpl__color-name">Aluminum</b>
+						<code class="clpl__color-value">#6d88a7</code>
+					</div>
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
