@@ -45,6 +45,7 @@
     "onStartupFinished"
   ],
   "main": "./themes/starfall-color-theme.json",
+  "browser": "./themes/starfall-color-theme.json",
   "contributes": {
     "themes": [
       {
