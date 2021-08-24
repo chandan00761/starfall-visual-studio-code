@@ -30,7 +30,7 @@
     "charts.red": "#fb7185",
     "charts.blue": "#54bef2",
     "charts.yellow": "#ffcb6b",
-    "charts.orange": "#d08f80",
+    "charts.orange": "#ff9c66",
     "charts.green": "#82f1b1",
     "charts.purple": "#c792ea",
     "charts.foreground": "#cacde2",
@@ -112,7 +112,7 @@
     "gitlens.closedPullRequestIconColor": "#fb7185",
     "gitlens.decorations.branchAheadForegroundColor": "#82f1b1",
     "gitlens.decorations.branchBehindForegroundColor": "#ffcb6b",
-    "gitlens.decorations.branchDivergedForegroundColor": "#d08f80",
+    "gitlens.decorations.branchDivergedForegroundColor": "#ff9c66",
     "gitlens.decorations.branchMissingUpstreamForegroundColor": "#fb7185",
     "gitlens.decorations.branchUnpublishedForegroundColor": "#82f1b1",
     "gitlens.gutterBackgroundColor": "#1f2a0e60",
@@ -300,7 +300,7 @@
       "scope": "invalid.deprecated",
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#d08f80"
+        "foreground": "#ff9c66"
       }
     },
     {
@@ -578,7 +578,7 @@
         "meta.decorator entity.name.function"
       ],
       "settings": {
-        "foreground": "#d08f80"
+        "foreground": "#ff9c66"
       }
     },
     {
@@ -1019,7 +1019,7 @@
         "source.js meta.decorator entity.name.function"
       ],
       "settings": {
-        "foreground": "#d08f80"
+        "foreground": "#ff9c66"
       }
     },
     {
@@ -1400,7 +1400,7 @@
         "source.python meta.function.decorator support.type"
       ],
       "settings": {
-        "foreground": "#d08f80"
+        "foreground": "#ff9c66"
       }
     },
     {
@@ -1478,7 +1478,7 @@
         "source.tsx meta.decorator entity.name.function"
       ],
       "settings": {
-        "foreground": "#d08f80"
+        "foreground": "#ff9c66"
       }
     },
     {
@@ -1559,7 +1559,7 @@
         "text.xml string.unquoted.cdata"
       ],
       "settings": {
-        "foreground": "#d08f80",
+        "foreground": "#ff9c66",
         "fontStyle": "italic"
       }
     },
@@ -1568,7 +1568,7 @@
       "scope": "text.xml string.unquoted.cdata punctuation.definition.string",
       "settings": {
         "fontStyle": "",
-        "foreground": "#d08f80"
+        "foreground": "#ff9c66"
       }
     },
     {
