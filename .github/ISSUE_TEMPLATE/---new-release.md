@@ -7,7 +7,7 @@ labels: [context-extension, scope-design, status-tracking, type-epic]
 
 ## `#.#.#`
 
-- [ ] Cross-channel testing for `#.#.#` (VSC stable, insiders, VSCodium).
+- [ ] Cross-channel testing for `#.#.#` (VSC, Insiders, GitHub Codespaces, VSCodium).
 - [ ] Update asset references.
 - [ ] Create tag release for GitHub.
 - [ ] Publish `#.#.#` to Extension Marketplace.
