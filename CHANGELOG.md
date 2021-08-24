@@ -1,8 +1,15 @@
 # Changelog
 
+## 0.2.0
+
+<a href="https://code.visualstudio.com/updates/v1_51" target="_blank"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Compatibility&message=>=v1.51.0&logo=visualstudio&logoColor=cacde2&labelColor=212127&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/tree/v0.2.0/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2021-08-24&logo=googlecalendar&logoColor=cacde2&labelColor=212121&color=54bef2" /> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/projects/3/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Project%20Board&message=v0.2.0&logo=trello&logoColor=cacde2&labelColor=212121&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/milestone/3/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Milestone&message=v0.2.0&logo=github&logoColor=cacde2&labelColor=212121&color=54bef2" /></a>
+
+- Update the Spacesuit color (Aurora Borealis) from `#d08f80` to `#ff9c66`.
+- Add support for GitHub Codespaces in the package data.
+
 ## 0.1.1
 
-<a href="https://code.visualstudio.com/updates/v1_51" target="_blank"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Compatibility&message=>=v1.51.0&logo=visualstudio&logoColor=cacde2&labelColor=212127&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/tree/v0.1.0/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2021-08-18&logo=googlecalendar&logoColor=cacde2&labelColor=212121&color=54bef2" /> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/projects/2/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Project%20Board&message=v0.1.0&logo=trello&logoColor=cacde2&labelColor=212121&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/milestone/2/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Milestone&message=v0.1.0&logo=github&logoColor=cacde2&labelColor=212121&color=54bef2" /></a>
+<a href="https://code.visualstudio.com/updates/v1_51" target="_blank"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Compatibility&message=>=v1.51.0&logo=visualstudio&logoColor=cacde2&labelColor=212127&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/tree/v0.1.1/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2021-08-22&logo=googlecalendar&logoColor=cacde2&labelColor=212121&color=54bef2" /> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/projects/2/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Project%20Board&message=v0.1.1&logo=trello&logoColor=cacde2&labelColor=212121&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/milestone/2/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Milestone&message=v0.1.1&logo=github&logoColor=cacde2&labelColor=212121&color=54bef2" /></a>
 
 - Fix publisher field in package data.
 - Fix build badge in documentation.
