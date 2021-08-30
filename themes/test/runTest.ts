@@ -1,8 +1,5 @@
 import * as path from "path";
-import * as cp from "child_process";
-import { downloadAndUnzipVSCode, resolveCliPathFromVSCodeExecutablePath, runTests } from "vscode-test";
-import { quote } from "shell-quote";
-import { workspace } from "vscode";
+import { runTests } from "vscode-test";
 
 async function main() {
 	try {

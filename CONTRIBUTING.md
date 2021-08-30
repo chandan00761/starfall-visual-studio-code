@@ -1,6 +1,6 @@
 # Contributing
 
-<img align="right" src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.2.0/assets/icon.png" width="96px">
+<img align="right" src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.3.0/assets/icon.png" width="96px">
 This theme follows a weekly release schedule every Monday prior to 12:00AM UTC. This ensures that users will not be spammed with updates from Visual Studio Marketplace and/or OpenVSIX.
 	
 Here are a few ways you can contribute to this repository:
@@ -58,7 +58,7 @@ Please limit your description and code sample/screenshot(s) to one MVCE (Minimum
 
 5. Check the scripts work in the [latest version of all Visual Studio Code distribution channels][vscode-download]:
    - Latest version of [VSC][vscode-download]
-   - Latest version of [VSC Insiders][[vscode-insiders-download]]
+   - Latest version of [VSC Insiders][vscode-insiders-download]
    - Latest version of [VSCodium][vscodium-download]
 
 <!-- Create issues -->
