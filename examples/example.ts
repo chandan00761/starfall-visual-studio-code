@@ -10,7 +10,7 @@ export class Starfall {
 
 	iInstall(iLove: boolean) {
 		if (iLove) {
-			return "ext install material-starfall";
+			return "ext install starfall";
 		}
 
 		return undefined;

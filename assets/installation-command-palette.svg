@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 602 354">
 	<foreignObject x="0" y="0" width="602" height="354">
-		<div xmlns="http://www.w3.org/1999/xhtml" class="quick-input-widget show-file-icons" tabindex="-1" style="background-color: rgb(30, 41, 59); border-radius: 8px; color: rgb(202, 205, 226); width: 600px; padding-block-end: 6px; padding-bottom: 6px; padding-inline: 1px; padding-left: 1px; padding-right: 1px; user-select: none; z-index: 2000; -webkit-locale: 'en'; font-family: 'Segoe WPC', 'Segoe UI', sans-serif;font-size: 13px;">
+		<div xmlns="http://www.w3.org/1999/xhtml" class="quick-input-widget show-file-icons" tabindex="-1" style="background-color: rgb(27, 38, 54); border-radius: 8px; color: rgb(202, 205, 226); width: 600px; padding-block-end: 6px; padding-bottom: 6px; padding-inline: 1px; padding-left: 1px; padding-right: 1px; user-select: none; z-index: 2000; -webkit-locale: 'en'; font-family: 'Segoe WPC', 'Segoe UI', sans-serif;font-size: 13px;">
 			<style type="text/css" media="screen" style="display: none;">
 				.quick-input-list .quick-input-list-entry {
 					border-top-color: #3f3f46;
@@ -31,7 +31,7 @@
 				<div class="quick-input-and-message" style="display: flex; flex-direction: column; flex-grow: 1; position: relative;">
 					<div class="quick-input-filter" style="display: flex; flex-grow: 1; position: relative;">
 						<div class="quick-input-box" style="flex-grow: 1;">
-							<div class="monaco-inputbox idle synthetic-focus" style="background-color: rgba(7, 23, 48, 0.31); color: rgb(210, 216, 231); border-width: 1px; border-style: solid; border-color: rgb(30, 41, 59); border-block: 1px solid rgb(30, 41, 59); border-inline: 1px solid rgb(30, 41, 59); box-sizing: border-box; display: block; outline: rgba(30, 41, 59, 0) solid 1px; outline-offset: -1px; position: relative;">
+							<div class="monaco-inputbox idle synthetic-focus" style="background-color: rgba(7, 23, 48, 0.31); color: rgb(210, 216, 231); border-width: 1px; border-style: solid; border-color: rgb(27, 38, 54); border-block: 1px solid rgb(27, 38, 54); border-inline: 1px solid rgb(27, 38, 54); box-sizing: border-box; display: block; outline: rgba(27, 38, 54, 0) solid 1px; outline-offset: -1px; position: relative;">
 								<div class="ibwrapper" style="display: block; position: relative;">
 									<input class="input empty" autocorrect="off" autocapitalize="off" spellcheck="false" type="text" wrap="off" aria-describedby="quickInput_message" placeholder="Select Color Theme (Up/Down Keys to Preview)" style="background-color: inherit;border: none;color: rgb(210, 216, 231);appearance: none;box-sizing: border-box;cursor: text;font-family: inherit;font-size: inherit;inline-size: 586px;outline-offset: -1px;padding-block: 4px;padding: 4px;padding-inline: 4px;text-overflow: ellipsis;width: 586px;" aria-label="Select Color Theme (Up/Down Keys to Preview)" role="combobox" aria-haspopup="true" aria-autocomplete="list" aria-activedescendant="list_id_12_48" value="" />
 								</div>
@@ -59,7 +59,7 @@
 			<div class="quick-input-list" style="display: block; margin-block-start: 6px; margin-top: 6px;">
 				<div class="monaco-list list_id_12 mouse-support selection-none element-focused" tabindex="0" role="listbox" aria-label="Quick Input" data-keybinding-context="70" id="quickInput_list" style="max-height: calc(308px); display: block; max-block-size: 308px; overflow: hidden; position: relative; white-space: nowrap;" aria-activedescendant="list_id_12_48">
 					<div class="monaco-scrollable-element " role="presentation" style="position: relative; overflow: hidden; display: block;">
-						<div class="monaco-list-rows" style="transform: translate3d(0px, 0px, 0px); overflow: hidden; height: 1232px; left: 0px; top: -924px; background-color: rgb(30, 41, 59); block-size: 1232px; display: block; inset-block-start: -924px; position: relative;">
+						<div class="monaco-list-rows" style="transform: translate3d(0px, 0px, 0px); overflow: hidden; height: 1232px; left: 0px; top: -924px; background-color: rgb(27, 38, 54); block-size: 1232px; display: block; inset-block-start: -924px; position: relative;">
 							<div class="monaco-list-row" role="option" data-index="42" data-last-element="false" aria-setsize="56" aria-posinset="43" id="list_id_12_42" aria-label="Material Theme Palenight" draggable="false" style="top: 924px; height: 22px; box-sizing: border-box; cursor: pointer; inline-size: 600px; overflow: hidden; position: absolute; touch-action: none; width: 600px; -webkit-user-drag: none;">
 								<div class="quick-input-list-entry" style="block-size: 22px; border-block-start-color: rgb(63, 63, 70); border-top-color: rgb(63, 63, 70); box-sizing: border-box; display: flex; height: 22px; overflow: hidden; padding-inline: 6px; padding-left: 6px; padding-right: 6px;">
 									<label class="quick-input-list-label" style="display: flex; flex-basis: 0%; flex-grow: 1; overflow: hidden;">
@@ -587,14 +587,14 @@
 							</div>
 						</div>
 						<div class="shadow" style="display: none; position: absolute;"></div>
-						<div class="shadow top" style="block-size: 3px; box-shadow: rgba(30, 41, 59, 0) 0px 6px 6px -6px inset; height: 3px; inline-size: 600px; left: 3px; position: absolute; top: 0px; width: 600px;">
+						<div class="shadow top" style="block-size: 3px; box-shadow: rgba(27, 38, 54, 0) 0px 6px 6px -6px inset; height: 3px; inline-size: 600px; left: 3px; position: absolute; top: 0px; width: 600px;">
 						</div>
-						<div class="shadow top-left-corner top" style="block-size: 3px; box-shadow: rgba(30, 41, 59, 0) 0px 6px 6px -6px inset; height: 3px; inline-size: 3px; position: absolute; top: 0px; width: 3px;">
+						<div class="shadow top-left-corner top" style="block-size: 3px; box-shadow: rgba(27, 38, 54, 0) 0px 6px 6px -6px inset; height: 3px; inline-size: 3px; position: absolute; top: 0px; width: 3px;">
 						</div>
 					</div>
 					<style type="text/css" media="screen" style="display: none;">
 						.monaco-list.list_id_12 .monaco-list-rows {
-							background: #1e293b;
+							background: #1b2636;
 						}
 
 						.monaco-list.list_id_12 .monaco-list-row.focused {
