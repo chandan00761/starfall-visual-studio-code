@@ -1478,14 +1478,14 @@
       "name": "[Java] Storage modifier import",
       "scope": "source.java storage.modifier.import",
       "settings": {
-        "foreground": "#82f1b1"
+        "foreground": "#ffcb6b"
       }
     },
     {
       "name": "[Java] Storage modifier package",
       "scope": "source.java storage.modifier.package",
       "settings": {
-        "foreground": "#82f1b1"
+        "foreground": "#ffcb6b"
       }
     },
     {
@@ -1561,10 +1561,7 @@
     },
     {
       "name": "[Java] Import modifier",
-      "scope": [
-        "source.java storage.modifier",
-        "source.java storage.modifier.import"
-      ],
+      "scope": "source.java storage.modifier",
       "settings": {
         "foreground": "#82f1b1"
       }
