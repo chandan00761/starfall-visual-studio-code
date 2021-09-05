@@ -74,10 +74,10 @@
     "vscode:prepublish": "npm-run-all clean compile",
     "clean": "npx rimraf out *.vsix",
     "compile": "npx tsc -p ./",
-    "install-extension": "code --install-extension starfall-visual-studio-code-0.3.0.vsix",
+    "install-extension": "code --install-extension starfall-visual-studio-code-0.4.0.vsix",
     "lint": "npx eslint . --ext .ts",
-    "mocha": "npx mocha",
-    "test": "npm-run-all lint compile mocha",
+    "pretest": "npm-run-all lint compile",
+    "test": "npx mocha",
     "package": "npx vsce package"
   },
   "devDependencies": {
