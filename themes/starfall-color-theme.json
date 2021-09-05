@@ -1738,7 +1738,7 @@
       }
     },
     {
-      "name": "[JSON] Key",
+      "name": "[JSON] Key punctuation",
       "scope": [
         "source.json punctuation.definition.string",
         "source.json punctuation.support.type.property-name"
@@ -2288,14 +2288,14 @@
       "name": "[SQL] Null",
       "scope": "source.sql keyword.other.DDL.create.II",
       "settings": {
-        "color": "#fb7185"
+        "foreground": "#fb7185"
       }
     },
     {
       "name": "[SQL] Table name",
       "scope": "source.sql constant.other.table-name.sql",
       "settings": {
-        "color": "#ffcb6b"
+        "foreground": "#ffcb6b"
       }
     },
     {
@@ -2542,10 +2542,10 @@
       }
     },
     {
-      "name": "[YAML] Entity name tag",
+      "name": "[YAML] Tag name",
       "scope": "source.yaml entity.name.tag",
       "settings": {
-        "foreground": "#ffcb6b"
+        "foreground": "#cacde2"
       }
     },
     {
