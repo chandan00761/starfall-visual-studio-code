@@ -16,7 +16,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.4.0/assets/ui-overview.png" width="512px"></p>
 
-<p align="center">Typeface: [Jetbrains Mono][jebtrains-mono]. Iconset: [Material Icon Theme][material-icon-theme].</p>
+<p align="center">Typeface: <a href="https://www.jetbrains.com/lp/mono/">Jetbrains Mono</a>. Iconset: <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</a>.</p>
 
 ## Features
 
@@ -85,9 +85,6 @@ Here are some of the things you can do to help:
 
 Copyright © 2021 [SNDST00M](https://github.com/SNDST00M) and [other contributors](https://github.com/SNDST00M/starfall-visual-studio-code/graphs/contributors).
 
-<!-- starfall-visual-studio-code -->
-[jetbrains-mono]: https://www.jetbrains.com/lp/mono/
-[material-icon-theme]: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 <!-- Contributing -->
 [starfall-vscode-issue]: https://github.com/millsp/material-candy/issues/new/choose/
 [starfall-vscode-pr]: https://github.com/millsp/material-candy/compare/
