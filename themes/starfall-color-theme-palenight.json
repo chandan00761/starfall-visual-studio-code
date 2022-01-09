@@ -1917,6 +1917,13 @@
       }
     },
     {
+      "name": "[Perl] Special variable",
+      "scope": "variable.other.readwrite.global.special.perl",
+      "settings": {
+        "foreground": "#ffcb6b",
+      }
+    },
+    {
       "name": "[PHP] Array",
       "scope": [
         "source.php punctuation.section.array.begin",
