@@ -53,7 +53,7 @@ Initial version:
 
 ## Roadmap
 
-- Add support for all Sublime.
+- Add light theme.
 
 <!-- Roadmap -->
 [sublime-tokens]: https://www.sublimetext.com/docs/scope_naming.html
