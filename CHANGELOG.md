@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.5.0
+
+<a href="https://code.visualstudio.com/updates/v1_51" target="_blank"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Compatibility&message=>=v1.51.0&logo=visualstudio&logoColor=cacde2&labelColor=212127&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/tree/v0.5.0/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2021-09-06&logo=googlecalendar&logoColor=cacde2&labelColor=212121&color=54bef2" /> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/projects/6/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Project%20Board&message=v0.5.0&logo=trello&logoColor=cacde2&labelColor=212121&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/milestone/6/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Milestone&message=v0.5.0&logo=github&logoColor=cacde2&labelColor=212121&color=54bef2" /></a>
+
+- Update `invalid.deprecated` style from `underline` to `strikethrough`.
+- Apply `strikethrough` style to `markup.strikethrough`.
+- Add Perl language support.
+- Update Ocean background from `#111720` to `#0e131b`.
+- Update Palenight background from `#242131` to `#202337`.
+- Update Palenight accent color from `#c792ea` to `#54bef2`.
+- Skip theme validity tests in CI workflow until VSC 1.64.0 & `strikethrough` fontStyle.
+
 ## 0.4.0
 
 <a href="https://code.visualstudio.com/updates/v1_51" target="_blank"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Compatibility&message=>=v1.51.0&logo=visualstudio&logoColor=cacde2&labelColor=212127&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/tree/v0.4.0/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2021-09-06&logo=googlecalendar&logoColor=cacde2&labelColor=212121&color=54bef2" /> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/projects/5/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Project%20Board&message=v0.4.0&logo=trello&logoColor=cacde2&labelColor=212121&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/milestone/5/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Milestone&message=v0.4.0&logo=github&logoColor=cacde2&labelColor=212121&color=54bef2" /></a>

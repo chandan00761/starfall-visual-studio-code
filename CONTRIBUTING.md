@@ -1,6 +1,6 @@
 # Contributing
 
-<img align="right" src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.4.0/assets/icon.png" width="96px">
+<img align="right" src="https://raw.githubusercontent.com/SNDST00M/starfall-visual-studio-code/v0.5.0/assets/icon.png" width="96px">
 This theme follows a weekly release schedule every Monday prior to 12:00AM UTC. This ensures that users will not be spammed with updates from Visual Studio Marketplace and/or OpenVSIX.
 
 Here are a few ways you can contribute to this repository:
