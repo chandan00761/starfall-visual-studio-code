@@ -293,7 +293,7 @@
         "invalid.unimplemented"
       ],
       "settings": {
-        "fontStyle": "underline",
+        "fontStyle": "strikethrough",
         "foreground": "#fb7185"
       }
     },
@@ -301,7 +301,7 @@
       "name": "Invalid & deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "fontStyle": "underline",
+        "fontStyle": "strikethrough",
         "foreground": "#ff9c66"
       }
     },
@@ -810,9 +810,13 @@
     },
     {
       "name": "[Markup] Strike",
-      "scope": "markup.strike",
+      "scope": [
+        "markup.strike",
+        "markup.strikethrough"
+      ],
       "settings": {
-        "foreground": "#4e5c7e"
+        "foreground": "#4e5c7e",
+        "fontStyle": "strikethrough"
       }
     },
     {
