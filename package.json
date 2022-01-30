@@ -41,11 +41,6 @@
   "bugs": {
     "url": "https://github.com/SNDST00M/starfall-visual-studio-code/issues"
   },
-  "activationEvents": [
-    "onStartupFinished"
-  ],
-  "main": "./themes/starfall-color-theme.json",
-  "browser": "./themes/starfall-color-theme.json",
   "contributes": {
     "themes": [
       {
