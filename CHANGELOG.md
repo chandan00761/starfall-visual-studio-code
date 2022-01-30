@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.5.2
+
+<a href="https://code.visualstudio.com/updates/v1_64" target="_blank"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Compatibility&message=>=v1.51.0&logo=visualstudio&logoColor=cacde2&labelColor=212127&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/tree/v0.5.2/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2021-09-06&logo=googlecalendar&logoColor=cacde2&labelColor=212121&color=54bef2" /> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/projects/8/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Project%20Board&message=v0.5.2&logo=trello&logoColor=cacde2&labelColor=212121&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/milestone/8/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Milestone&message=v0.5.2&logo=github&logoColor=cacde2&labelColor=212121&color=54bef2" /></a>
+
+Hotfix for automatic theme loading in untrusted workspaces.
+
 ## 0.5.1
 
 <a href="https://code.visualstudio.com/updates/v1_64" target="_blank"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Compatibility&message=>=v1.51.0&logo=visualstudio&logoColor=cacde2&labelColor=212127&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/tree/v0.5.1/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Release%20Date&message=2021-09-06&logo=googlecalendar&logoColor=cacde2&labelColor=212121&color=54bef2" /> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/projects/7/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Project%20Board&message=v0.5.1&logo=trello&logoColor=cacde2&labelColor=212121&color=54bef2" /></a> <a href="https://github.com/SNDST00M/starfall-visual-studio-code/milestone/7/"><img src="https://img.shields.io/static/v1.svg?style=flat-square&label=Milestone&message=v0.5.1&logo=github&logoColor=cacde2&labelColor=212121&color=54bef2" /></a>
